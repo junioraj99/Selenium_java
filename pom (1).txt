@@ -1,0 +1,62 @@
+ <dependencies>
+	  
+	  	<dependency>
+
+    <groupId>org.seleniumhq.selenium</groupId>
+
+    <artifactId>selenium-java</artifactId>
+
+    <version>4.9.1</version>
+
+</dependency>
+
+
+<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+
+<dependency>
+
+    <groupId>io.github.bonigarcia</groupId>
+
+    <artifactId>webdrivermanager</artifactId>
+
+    <version>5.3.3</version>
+
+</dependency>
+
+<dependency>
+
+<groupId>org.apache.poi</groupId>
+
+<artifactId>poi</artifactId>
+
+<version>3.17</version>
+
+</dependency>
+
+<dependency>
+
+    <groupId>org.testng</groupId>
+
+    <artifactId>testng</artifactId>
+
+    <version>7.4.0</version>
+
+    <scope>test</scope>
+
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+
+
+   	<dependency>
+   		<groupId>com.maventestone</groupId>
+   		<artifactId>com.maventestone</artifactId>
+   		<version>0.0.1-SNAPSHOT</version>
+   	</dependency>
+   
+  </dependencies>
+</project>
+
+
+
+/html/body/header/nav/div[4]/ul/li[6]/a/span[1]
